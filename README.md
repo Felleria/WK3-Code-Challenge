@@ -2,11 +2,11 @@
 
 #### Date, 07/04/2024
 
-#### By Najib Iman
+#### By Felleria
 
 ## Description
 
-Week 3 code challenge, We were given this challenges:
+Week 3 code challenge, We were given this challenge:
 
 - Flatiron Movie Theater is open for business! You will be building out an application, Flatadango, that allows a user to purchase movie tickets from the theater.
 
@@ -24,7 +24,7 @@ Git
 ### Installation instruction
 
 ```
-Git clone https://github.com/najibdevs/WK3-Code-Challenge
+Git clone https://github.com/Felleria/WK3-Code-Challenge
 
 ```
 
@@ -36,7 +36,7 @@ Javascript
 
 ## Support and contact details
 
-github.com/najibdevs
+github.com/Felleria
 
 ### License
 
